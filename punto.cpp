@@ -20,6 +20,7 @@ using namespace std;
 	};
 	
 	void Punto::asignarX(int valX){
+		
 		x=valX;
 	}
 	
